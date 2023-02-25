@@ -4,5 +4,4 @@ mysql_root_pass: root
 mysql_packages:
   - mysql-server
   - python
-  - python-mysqldb 
-...
+  - python-mysqldb  

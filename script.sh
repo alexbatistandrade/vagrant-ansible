@@ -1,5 +1,6 @@
 #!/bin/bash
 
-apt updade
+apt update
 apt install -y nginx
-systemctl restart nginx
+service nginx restart
+

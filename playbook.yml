@@ -3,4 +3,3 @@
   become: true
   roles:
     - ansible-role-mysql
-...
