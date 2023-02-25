@@ -1,6 +1,6 @@
 Vagrant.configure("2") do |config|
   config.vm.provider "virtualbox" do |vb|
-    vb.name = "primeira_maquina"
+    vb.name = "vagrant-ansible"
     vb.memory = 2048
     vb.cpus = 2
   end
